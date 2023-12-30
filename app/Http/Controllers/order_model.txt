@@ -1,0 +1,32 @@
+order model 
+
+
+what we need in order? 
+
+
+- order is made for branch 
+
+so order has branch id 
+
+order is made by a user so order have a user id 
+
+order has services
+so you can make a model call order_services which has order id, service id and the current price of that service 
+
+you can also have order_workers
+
+order also has date 
+
+order have total amount 
+order have total paid 
+order could have a coupon 
+order could have a transaction id 
+order could have a discount through wallet points or discount 
+order has reservation type => outdoor, indoor, home. 
+
+order has payment method => Credit Card, Cash 
+
+order has status => canceled, compeleted, pending. 
+
+maybe the guy want to add some products to the order 
+order products 
